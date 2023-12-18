@@ -16,13 +16,13 @@
 
 
 
-#CEO: Qayum Khan 
+# CEO: Qayum Khan 
 CEO Image
 Designation: Chief Executive Officer
 
 
 Team Members
-#Member 1: Emdad Khan
+# Member 1: Emdad Khan
 Designation: Team Leader
 
 
