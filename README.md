@@ -27,7 +27,7 @@ Designation: Team Leader
 
 
 Team Member 2: MD Nur Hasan 
-(https://media.licdn.com/dms/image/D5635AQEVgRWELLHu1A/profile-framedphoto-shrink_800_800/0/1702791932494?e=1703484000&v=beta&t=1aJJoqrW3TOBPmVA3BAKKnrzWFqbkZgdlb4CggbJAcI)
+!(https://media.licdn.com/dms/image/D5635AQEVgRWELLHu1A/profile-framedphoto-shrink_800_800/0/1702791932494?e=1703484000&v=beta&t=1aJJoqrW3TOBPmVA3BAKKnrzWFqbkZgdlb4CggbJAcI)
 Designation: SEO and Content Writer 
 
 Team Member 3: Ratul Islam 
