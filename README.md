@@ -16,27 +16,21 @@
 
 
 CEO Section
-CEO: [CEO Name]
+CEO: Qayum Khan 
 CEO Image
 Designation: Chief Executive Officer
 
-[CEO Name] is the visionary leader driving our company's mission and strategy. With a wealth of experience in [industry/domain], [he/she/they] guide the team towards success, ensuring our commitment to excellence and innovation.
 
 Team Members
-Team Member 1: [Person 1 Name]
-Person 1 Image
-Designation: [Person 1 Designation]
+Team Member 1: Emdad Khan
+Designation: Team Leader
 
-[Person 1 Name] plays a crucial role in [his/her/their] capacity as [designation]. Bringing [his/her/their] unique skills and expertise, [he/she/they] contribute significantly to the success of our projects and the overall growth of the company.
 
-Team Member 2: [Person 2 Name]
-Person 2 Image
-Designation: [Person 2 Designation]
+Team Member 2: MD Nur Hasan 
+Designation: SEO and Content Writer 
 
-[Person 2 Name] is a key member of our team, specializing in [his/her/their] field of expertise. With a passion for [specific domain], [he/she/they] bring[s] valuable insights and dedication to every project, ensuring its success.
+Team Member 3: Ratul Islam 
+Designation: Senior Social Manager and Digital Marketer 
 
-Team Member 3: [Person 3 Name]
-Person 3 Image
-Designation: [Person 3 Designation]
-
-[Person 3 Name] is an integral part of our team, handling responsibilities as [designation]. [His/Her/Their] skills in [relevant skills] contribute significantly to the smooth functioning of our projects and the achievement of our organizational goals.
+Team Member 3: Mihad Chy 
+Designation: 3D Designer and Animation Creator, Graphics  
